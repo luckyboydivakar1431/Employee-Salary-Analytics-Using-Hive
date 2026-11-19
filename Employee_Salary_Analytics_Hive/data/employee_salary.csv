@@ -1,0 +1,151 @@
+employee_id,employee_code,employee_name,department,job_role,age,experience_years,annual_salary,city,gender,joining_year
+1,EMP0001,Employee_001,Operations,Operations Analyst,36,3,393000,Bengaluru,Male,2021
+2,EMP0002,Employee_002,Operations,Operations Analyst,23,17,1241000,Hyderabad,Male,2022
+3,EMP0003,Employee_003,HR,HR Manager,33,16,1417000,Delhi,Other,2025
+4,EMP0004,Employee_004,Sales,Sales Analyst,21,7,786000,Visakhapatnam,Male,2024
+5,EMP0005,Employee_005,Finance,Financial Analyst,27,8,692000,Hyderabad,Female,2021
+6,EMP0006,Employee_006,Finance,Accountant,50,11,1260000,Mumbai,Male,2024
+7,EMP0007,Employee_007,IT,IT Manager,44,17,1388000,Mumbai,Male,2021
+8,EMP0008,Employee_008,IT,IT Support,27,7,682000,Pune,Female,2024
+9,EMP0009,Employee_009,Operations,Operations Analyst,34,11,1115000,Delhi,Female,2021
+10,EMP0010,Employee_010,Marketing,Marketing Manager,36,20,1352000,Bengaluru,Female,2024
+11,EMP0011,Employee_011,Finance,Finance Manager,41,20,1563000,Visakhapatnam,Male,2022
+12,EMP0012,Employee_012,Engineering,Software Engineer,25,1,320000,Bengaluru,Other,2023
+13,EMP0013,Employee_013,HR,HR Manager,50,20,1549000,Bengaluru,Female,2022
+14,EMP0014,Employee_014,HR,HR Manager,58,17,1450000,Pune,Other,2024
+15,EMP0015,Employee_015,Finance,Financial Analyst,26,7,704000,Visakhapatnam,Male,2021
+16,EMP0016,Employee_016,HR,HR Manager,48,20,1378000,Mumbai,Male,2024
+17,EMP0017,Employee_017,Sales,Sales Analyst,56,19,1512000,Visakhapatnam,Male,2021
+18,EMP0018,Employee_018,Operations,Operations Manager,42,17,1365000,Hyderabad,Female,2024
+19,EMP0019,Employee_019,HR,HR Manager,37,14,1158000,Mumbai,Male,2025
+20,EMP0020,Employee_020,IT,IT Manager,53,20,1475000,Mumbai,Male,2022
+21,EMP0021,Employee_021,Finance,Finance Manager,21,5,760000,Mumbai,Female,2024
+22,EMP0022,Employee_022,IT,System Administrator,36,3,444000,Hyderabad,Male,2025
+23,EMP0023,Employee_023,IT,IT Support,55,2,414000,Visakhapatnam,Male,2022
+24,EMP0024,Employee_024,Operations,Operations Analyst,54,15,1371000,Visakhapatnam,Other,2024
+25,EMP0025,Employee_025,HR,Recruiter,46,17,1321000,Delhi,Other,2023
+26,EMP0026,Employee_026,Sales,Sales Executive,35,16,1350000,Hyderabad,Female,2021
+27,EMP0027,Employee_027,Marketing,Marketing Executive,21,17,1321000,Hyderabad,Other,2021
+28,EMP0028,Employee_028,HR,Recruiter,25,2,390000,Mumbai,Male,2023
+29,EMP0029,Employee_029,Operations,Operations Associate,57,15,1255000,Mumbai,Female,2022
+30,EMP0030,Employee_030,Engineering,Junior Developer,27,15,1305000,Delhi,Female,2023
+31,EMP0031,Employee_031,Sales,Sales Manager,24,13,1356000,Delhi,Other,2021
+32,EMP0032,Employee_032,IT,IT Support,36,12,1264000,Bengaluru,Male,2025
+33,EMP0033,Employee_033,Sales,Sales Analyst,50,4,631000,Bengaluru,Male,2024
+34,EMP0034,Employee_034,Engineering,Tech Lead,55,17,1177000,Visakhapatnam,Male,2021
+35,EMP0035,Employee_035,Engineering,Software Engineer,51,7,697000,Bengaluru,Female,2021
+36,EMP0036,Employee_036,HR,Recruiter,50,12,1078000,Chennai,Female,2025
+37,EMP0037,Employee_037,Operations,Operations Analyst,34,15,1180000,Hyderabad,Other,2025
+38,EMP0038,Employee_038,IT,IT Manager,51,10,1015000,Mumbai,Other,2022
+39,EMP0039,Employee_039,IT,IT Support,25,16,1251000,Mumbai,Male,2022
+40,EMP0040,Employee_040,Sales,Sales Manager,23,3,382000,Mumbai,Male,2024
+41,EMP0041,Employee_041,Operations,Operations Analyst,37,18,1535000,Bengaluru,Other,2023
+42,EMP0042,Employee_042,HR,HR Manager,40,8,744000,Pune,Female,2021
+43,EMP0043,Employee_043,IT,IT Support,55,14,1333000,Bengaluru,Other,2023
+44,EMP0044,Employee_044,HR,HR Executive,44,11,1148000,Chennai,Male,2024
+45,EMP0045,Employee_045,Engineering,Tech Lead,54,17,1364000,Hyderabad,Other,2025
+46,EMP0046,Employee_046,Finance,Accountant,27,3,341000,Delhi,Other,2022
+47,EMP0047,Employee_047,Finance,Finance Manager,42,9,847000,Bengaluru,Other,2023
+48,EMP0048,Employee_048,Marketing,Marketing Executive,26,15,1322000,Delhi,Female,2023
+49,EMP0049,Employee_049,IT,IT Support,37,0,341000,Bengaluru,Other,2024
+50,EMP0050,Employee_050,Marketing,Marketing Executive,25,13,1284000,Delhi,Male,2025
+51,EMP0051,Employee_051,IT,IT Support,48,11,1290000,Bengaluru,Male,2023
+52,EMP0052,Employee_052,Finance,Finance Manager,36,1,297000,Delhi,Male,2023
+53,EMP0053,Employee_053,Engineering,Tech Lead,30,17,1423000,Bengaluru,Male,2022
+54,EMP0054,Employee_054,Sales,Sales Analyst,47,0,336000,Visakhapatnam,Other,2022
+55,EMP0055,Employee_055,Finance,Accountant,51,5,637000,Bengaluru,Male,2024
+56,EMP0056,Employee_056,Finance,Accountant,33,9,738000,Pune,Female,2023
+57,EMP0057,Employee_057,Engineering,Tech Lead,53,2,340000,Pune,Other,2025
+58,EMP0058,Employee_058,Finance,Financial Analyst,32,0,354000,Mumbai,Female,2021
+59,EMP0059,Employee_059,IT,IT Manager,41,19,1467000,Pune,Other,2025
+60,EMP0060,Employee_060,IT,System Administrator,23,12,1277000,Delhi,Female,2021
+61,EMP0061,Employee_061,Marketing,SEO Analyst,25,17,1273000,Delhi,Female,2025
+62,EMP0062,Employee_062,Finance,Financial Analyst,47,3,389000,Chennai,Female,2023
+63,EMP0063,Employee_063,Marketing,Marketing Manager,45,4,632000,Delhi,Other,2022
+64,EMP0064,Employee_064,Marketing,Marketing Manager,21,18,1364000,Chennai,Female,2022
+65,EMP0065,Employee_065,Sales,Sales Analyst,50,18,1577000,Pune,Female,2022
+66,EMP0066,Employee_066,Marketing,Marketing Executive,39,15,1249000,Mumbai,Other,2025
+67,EMP0067,Employee_067,Finance,Financial Analyst,35,2,379000,Visakhapatnam,Male,2022
+68,EMP0068,Employee_068,IT,IT Manager,25,1,328000,Pune,Female,2025
+69,EMP0069,Employee_069,HR,HR Executive,30,12,1272000,Delhi,Other,2021
+70,EMP0070,Employee_070,Engineering,Junior Developer,54,3,364000,Pune,Male,2025
+71,EMP0071,Employee_071,HR,Recruiter,54,3,356000,Mumbai,Other,2023
+72,EMP0072,Employee_072,Engineering,Tech Lead,49,14,1349000,Bengaluru,Other,2024
+73,EMP0073,Employee_073,Sales,Sales Manager,38,8,798000,Visakhapatnam,Other,2024
+74,EMP0074,Employee_074,Operations,Operations Associate,39,7,726000,Bengaluru,Female,2023
+75,EMP0075,Employee_075,Finance,Accountant,35,17,1179000,Pune,Other,2022
+76,EMP0076,Employee_076,Operations,Operations Analyst,42,6,655000,Mumbai,Female,2024
+77,EMP0077,Employee_077,IT,IT Manager,22,6,721000,Visakhapatnam,Other,2024
+78,EMP0078,Employee_078,Sales,Sales Analyst,47,0,279000,Mumbai,Other,2025
+79,EMP0079,Employee_079,Engineering,Junior Developer,38,19,1353000,Pune,Female,2021
+80,EMP0080,Employee_080,Sales,Sales Executive,50,10,1217000,Bengaluru,Other,2025
+81,EMP0081,Employee_081,IT,IT Manager,22,12,1332000,Hyderabad,Other,2024
+82,EMP0082,Employee_082,HR,Recruiter,45,14,1151000,Chennai,Male,2024
+83,EMP0083,Employee_083,Finance,Financial Analyst,37,10,1150000,Visakhapatnam,Male,2024
+84,EMP0084,Employee_084,IT,IT Support,25,17,1190000,Visakhapatnam,Other,2021
+85,EMP0085,Employee_085,Engineering,Junior Developer,30,0,266000,Bengaluru,Male,2024
+86,EMP0086,Employee_086,Operations,Operations Analyst,37,3,378000,Visakhapatnam,Female,2022
+87,EMP0087,Employee_087,Marketing,Marketing Executive,40,19,1325000,Hyderabad,Other,2021
+88,EMP0088,Employee_088,Finance,Finance Manager,33,18,1407000,Hyderabad,Other,2022
+89,EMP0089,Employee_089,IT,IT Support,57,9,924000,Visakhapatnam,Male,2023
+90,EMP0090,Employee_090,Marketing,Marketing Manager,42,13,1210000,Hyderabad,Female,2024
+91,EMP0091,Employee_091,IT,System Administrator,30,13,1281000,Pune,Male,2025
+92,EMP0092,Employee_092,Operations,Operations Analyst,50,8,866000,Pune,Other,2025
+93,EMP0093,Employee_093,Finance,Accountant,38,10,1179000,Pune,Male,2024
+94,EMP0094,Employee_094,Marketing,Marketing Executive,52,19,1432000,Visakhapatnam,Female,2022
+95,EMP0095,Employee_095,Sales,Sales Analyst,42,6,762000,Chennai,Other,2023
+96,EMP0096,Employee_096,Marketing,Marketing Executive,36,0,265000,Delhi,Female,2024
+97,EMP0097,Employee_097,Marketing,Marketing Manager,52,7,799000,Pune,Male,2021
+98,EMP0098,Employee_098,Finance,Accountant,40,7,789000,Delhi,Other,2023
+99,EMP0099,Employee_099,Sales,Sales Analyst,56,17,1456000,Chennai,Female,2024
+100,EMP0100,Employee_100,Finance,Accountant,33,9,746000,Chennai,Male,2025
+101,EMP0101,Employee_101,Engineering,Tech Lead,51,5,629000,Chennai,Other,2025
+102,EMP0102,Employee_102,Engineering,Junior Developer,33,16,1447000,Chennai,Male,2023
+103,EMP0103,Employee_103,HR,HR Manager,29,9,738000,Chennai,Male,2021
+104,EMP0104,Employee_104,Marketing,SEO Analyst,27,9,762000,Visakhapatnam,Male,2025
+105,EMP0105,Employee_105,Finance,Financial Analyst,32,15,1373000,Hyderabad,Female,2024
+106,EMP0106,Employee_106,IT,IT Support,57,2,366000,Delhi,Other,2021
+107,EMP0107,Employee_107,HR,HR Executive,36,4,665000,Hyderabad,Other,2024
+108,EMP0108,Employee_108,Marketing,Marketing Manager,45,19,1394000,Pune,Female,2023
+109,EMP0109,Employee_109,Engineering,Tech Lead,24,18,1426000,Mumbai,Other,2021
+110,EMP0110,Employee_110,Engineering,Tech Lead,26,6,664000,Bengaluru,Male,2022
+111,EMP0111,Employee_111,Marketing,SEO Analyst,49,2,286000,Delhi,Other,2024
+112,EMP0112,Employee_112,Finance,Finance Manager,39,1,303000,Delhi,Female,2021
+113,EMP0113,Employee_113,Operations,Operations Manager,58,7,769000,Delhi,Male,2024
+114,EMP0114,Employee_114,IT,IT Support,38,17,1326000,Visakhapatnam,Male,2021
+115,EMP0115,Employee_115,IT,IT Manager,57,5,698000,Chennai,Female,2021
+116,EMP0116,Employee_116,Sales,Sales Manager,55,9,796000,Pune,Female,2021
+117,EMP0117,Employee_117,Marketing,SEO Analyst,37,1,368000,Hyderabad,Male,2022
+118,EMP0118,Employee_118,Operations,Operations Manager,38,18,1483000,Mumbai,Male,2022
+119,EMP0119,Employee_119,Sales,Sales Executive,58,16,1366000,Pune,Other,2024
+120,EMP0120,Employee_120,IT,System Administrator,41,15,1304000,Delhi,Male,2022
+121,EMP0121,Employee_121,Finance,Finance Manager,46,13,1292000,Visakhapatnam,Other,2021
+122,EMP0122,Employee_122,Sales,Sales Analyst,28,2,329000,Visakhapatnam,Female,2025
+123,EMP0123,Employee_123,Engineering,Software Engineer,24,0,300000,Bengaluru,Other,2023
+124,EMP0124,Employee_124,Marketing,Marketing Executive,34,15,1396000,Chennai,Other,2022
+125,EMP0125,Employee_125,Finance,Accountant,36,14,1300000,Delhi,Male,2023
+126,EMP0126,Employee_126,Marketing,Marketing Executive,35,0,293000,Visakhapatnam,Male,2024
+127,EMP0127,Employee_127,IT,IT Manager,39,20,1336000,Mumbai,Other,2023
+128,EMP0128,Employee_128,Sales,Sales Analyst,56,15,1344000,Bengaluru,Female,2022
+129,EMP0129,Employee_129,Marketing,Marketing Executive,38,16,1282000,Visakhapatnam,Female,2023
+130,EMP0130,Employee_130,Engineering,Junior Developer,39,16,1345000,Delhi,Female,2025
+131,EMP0131,Employee_131,Marketing,Marketing Manager,51,15,1211000,Chennai,Female,2025
+132,EMP0132,Employee_132,Engineering,Software Engineer,33,17,1385000,Delhi,Male,2025
+133,EMP0133,Employee_133,Sales,Sales Analyst,51,7,705000,Delhi,Female,2024
+134,EMP0134,Employee_134,Operations,Operations Associate,29,20,1334000,Mumbai,Other,2023
+135,EMP0135,Employee_135,Engineering,Tech Lead,50,3,350000,Hyderabad,Other,2022
+136,EMP0136,Employee_136,Sales,Sales Analyst,37,20,1280000,Chennai,Other,2024
+137,EMP0137,Employee_137,Operations,Operations Manager,55,2,409000,Pune,Female,2024
+138,EMP0138,Employee_138,Engineering,Junior Developer,36,17,1216000,Delhi,Other,2023
+139,EMP0139,Employee_139,HR,HR Manager,27,2,317000,Pune,Male,2023
+140,EMP0140,Employee_140,IT,IT Support,39,1,372000,Chennai,Female,2024
+141,EMP0141,Employee_141,HR,HR Manager,32,7,781000,Bengaluru,Male,2021
+142,EMP0142,Employee_142,Marketing,Marketing Manager,30,12,1185000,Bengaluru,Female,2023
+143,EMP0143,Employee_143,Sales,Sales Analyst,39,8,744000,Delhi,Other,2022
+144,EMP0144,Employee_144,IT,System Administrator,48,14,1297000,Delhi,Female,2024
+145,EMP0145,Employee_145,Engineering,Software Engineer,27,9,751000,Bengaluru,Female,2025
+146,EMP0146,Employee_146,Finance,Financial Analyst,22,18,1400000,Visakhapatnam,Other,2024
+147,EMP0147,Employee_147,Finance,Finance Manager,24,0,353000,Mumbai,Other,2024
+148,EMP0148,Employee_148,Engineering,Software Engineer,35,9,789000,Delhi,Male,2025
+149,EMP0149,Employee_149,Finance,Finance Manager,23,4,683000,Chennai,Female,2021
+150,EMP0150,Employee_150,Marketing,SEO Analyst,41,11,1067000,Delhi,Female,2022
